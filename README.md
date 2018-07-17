@@ -10,7 +10,7 @@ The effects of Airbnb on the dynamics of the real estate market markets in the U
 
 This project will identify the features which have the most statistical significance on determining property values. Within that frame, the project will further isolate the significance of descriptive, geo-spatial and other features to understand the influence of each category. Finally, a predictive model will be deployed to advise hosts on strategies to maximize the yield disaggregated by neighborhoods
 
-Yield as a dependent variable <b>
+### Yield as a dependent variable 
 While academic research uses the listing price as the dependent variable, the approach is inadequate to capture the equilibrium price at which the transaction is made. As the supply and demand cycle needs to adjust over time , the supply-side variable necessitates the  presence of a tuning parameter. A new feature incorporating occupancy rate (estimated using length of stay and reviews) and listing price mitigates these issues and provides a more accurate measure of yield. 
 
 ### Dataset ###
